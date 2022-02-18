@@ -2,7 +2,7 @@
 // Given two arrays a[] and b[] of size n and m respectively. 
 // The task is to find Union of two arrays.
 // O(n*n) solution is to use two loops and check every element by comparing from each array
-// using sorting TC -> O(nlog(n)), Space complexity -> O(n) //for using vector to store result
+// using sorting TC -> O(nlog(n)) Space complexity -> O(n) //for using vector to store result
 
 #include<bits/stdc++.h>
 using namespace std;
