@@ -1,5 +1,5 @@
 
-// Given two arrays a[] and b[] of size n and n respectively. 
+// Given two arrays a[] and b[] of size n and m respectively. 
 // The task is to find no. Intersection of two arrays.
 // O(n*n) solution is to use two loops and check every element by comparing from each array
 // using sorting it is O(nlog(n))
