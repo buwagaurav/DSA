@@ -8,11 +8,12 @@ using namespace std;
 
 int main(){
 
-    int sum=0,n;
+    int sum=0,n,inp;
     cin>>n;
     vector<int> a;
     for(int i=0;i<n;i++){
-        cin>>a[i];
+        cin>>inp;
+        a.push_back(inp);
     }
     int maxi = a[0];
     for(auto it: a){
